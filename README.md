@@ -1,4 +1,4 @@
-<p style="text-align: right;">Sebastian Scholl</p>
+Sebastian Scholl
 
 # Projektantrag: Kalender
 
